@@ -1,5 +1,7 @@
 # Ignore data folder and heavy pptx files
 data/*
+!data/week9_two_moons.csv
+!data/week9_sleep_stress.csv
 slides/*.pptx
 
 # Byte-compiled / optimized / DLL files

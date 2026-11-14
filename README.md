@@ -1,4 +1,4 @@
-# Session X — Course Y
+# Session 9 — Intro to Data Course
 
 This repository contains the materials for **Session X** of *Course Y*.  
 - Slides: see [`slides/`](./slides/) folder  
@@ -6,7 +6,11 @@ This repository contains the materials for **Session X** of *Course Y*.
 ---
 
 ## 📑 Session Outline
-
+This session introduces Neural Networks and Unsupervised Learning, exploring how neural networks learn complex relationships from data and how clustering algorithms discover patterns without predefined labels.
+- Neural Networks: Artificial neurons, activation functions, multilayer perceptrons (MLPs), backpropagation, gradient descent and regularisation.
+- Unsupervised Learning: Supervised vs. unsupervised learning, clustering, similarity and distance measures.
+- K-Means Clustering: Centroids, feature scaling, choosing K (elbow method and silhouette score), visualisation and interpretation of clusters.
+Practical exercises: Build a neural network classifier and apply K-Means clustering to explore and interpret patterns in data.
 
 ---
 ## 🚀 Environment Setup
